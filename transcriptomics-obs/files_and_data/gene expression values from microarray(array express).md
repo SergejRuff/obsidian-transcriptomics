@@ -28,7 +28,7 @@ and the number following it (in this case, "958868") is a unique identifier for 
 https://www.ebi.ac.uk/biostudies/arrayexpress/studies/E-GEOD-39259/sdrf
 
 The image for example we see that GSM958861 1 corresponds to the spleen of a mouse.
-WARNING: the number corresponds to the sample/tissue, not the organism, which you can see in teh image. GSM958861 1 and GSM958862 1 are from the same animal, but one uses the spleen and one uses the liver part of the same mouse.
+WARNING: the number corresponds to the sample/tissue, not the organism, which you can see in the image. GSM958861 1 and GSM958862 1 are from the same animal, but one uses the spleen and one uses the liver part of the same mouse.
 
 Sample count 40 -> Meaning there should be 40 sample txt files: one for each sample.
 Typically more samples than organisms.

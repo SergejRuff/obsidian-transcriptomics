@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "files_and_data/transcriptomics data.md",
+                "file": "files_and_data/gene expression values from microarray(array express).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "files_and_data/transcriptomics data.md",
+                "file": "files_and_data/gene expression values from microarray(array express).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "files_and_data/transcriptomics data.md",
+                "file": "files_and_data/gene expression values from microarray(array express).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "files_and_data/transcriptomics data.md"
+                "file": "files_and_data/gene expression values from microarray(array express).md"
               }
             }
           }
@@ -146,10 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "89e9be7d393370f6",
+  "active": "d2d085108fe460d6",
   "lastOpenFiles": [
-    "files_and_data/Pasted image 20231220141509.png",
     "files_and_data/transcriptomics data.md",
+    "files_and_data/Pasted image 20231220141509.png",
     "files_and_data/gene expression values from microarray(array express).md",
     "files_and_data/Pasted image 20231220141449.png",
     "files_and_data/Pasted image 20231220140723.png",
