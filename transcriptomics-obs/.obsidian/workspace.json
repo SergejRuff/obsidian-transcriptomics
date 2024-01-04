@@ -8,43 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "571fe6f5feaa1052",
+            "id": "1775da3476c264d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "single_cell/Protokolle/ScRNA-Protokolle.md",
+                "file": "single_cell/Raw data processing/Overview.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0706ecb1810abc1d",
+            "id": "d1ffbc51b2c6ac53",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "single_cell/UMI.md",
+                "file": "single_cell/Raw data processing/Alignment und Mapping.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "13f6fc1b7a99b388",
+            "id": "2d4aadb185ca1300",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "single_cell/UMI.md",
+                "file": "single_cell/Raw data processing/type of reference sequence.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "single_cell/UMI.md",
+                "file": "single_cell/Raw data processing/type of reference sequence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "single_cell/UMI.md",
+                "file": "single_cell/Raw data processing/type of reference sequence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "single_cell/UMI.md"
+                "file": "single_cell/Raw data processing/type of reference sequence.md"
               }
             }
           }
@@ -171,8 +171,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0706ecb1810abc1d",
+  "active": "89e9be7d393370f6",
   "lastOpenFiles": [
+    "single_cell/Raw data processing/Alignment und Mapping.md",
+    "single_cell/Raw data processing/type of reference sequence.md",
+    "single_cell/Raw data processing/type of mapping.md",
+    "single_cell/Raw data processing/lighweight mapping.md",
+    "single_cell/Raw data processing/Continues Alignment.md",
+    "single_cell/Raw data processing/Spliced Alignment.md",
+    "attachments/Pasted image 20240104143848.png",
+    "attachments/Pasted image 20240104142925.png",
+    "single_cell/Raw data processing/Overview.md",
+    "Generelle Methoden für Transcriptomics - ScRNA und Bulk.md",
+    "Generelle Methoden für Transcriptomics - ScRNA und Bulk",
+    "single_cell/Raw data processing/Raw Data Quality Control.md",
+    "Generelle Methoden für Transcriptomics - ScRNA und Bulk/FastQC Beispiel.md",
+    "attachments/Pasted image 20240104141257.png",
+    "single_cell/Raw data processing",
+    "single_cell/UMI.md",
     "single_cell/tag-based Quantification.md",
     "single_cell/single-cell vs single-nuclei.md",
     "single_cell/Spatial transcriptomics.md",
@@ -185,35 +201,21 @@
     "single_cell/full-length Quantification.md",
     "single_cell/Fortschritte in Single Cell Analysen.md",
     "common terminology/amplification biases.md",
-    "single_cell/UMI.md",
     "attachments/Pasted image 20231220141449.png",
     "common terminology",
     "single_cell/Protokolle/ScRNA-Protokolle.md",
     "single_cell/Protokolle/ScNaUmi-seq.md",
     "single_cell/Protokolle/plate-based protocols.md",
-    "common terminology/multiplexing.md",
-    "single_cell/Protokolle/Microfluidic device-based protocols.md",
     "single_cell/Protokolle",
-    "single_cell/Protokolle/commercial Fluidigm C1 microfluidic chip based solution.md",
     "attachments/Pasted image 20240104133410.png",
     "attachments/Pasted image 20240104133328.png",
     "attachments/Pasted image 20240104130311.png",
     "attachments/Pasted image 20240104125827.png",
-    "single_cell/Transcript quantification.md",
     "attachments/Pasted image 20240104123050.png",
     "attachments/Pasted image 20240104122847.png",
     "attachments",
-    "attachments/Pasted image 20240104122218.png",
-    "Molekularbiologische Methoden/NGS Prozess.md",
-    "Molekularbiologische Methoden/Illumina’s sequencers.md",
-    "Molekularbiologische Methoden/First Generation Sequencing.md",
-    "Molekularbiologische Methoden/Oxford Nanopore.md",
-    "Molekularbiologische Methoden/PacBio.md",
-    "Molekularbiologische Methoden/Third generation Sequencing.md",
     "Molekularbiologische Methoden",
     "single_cell",
-    "attachments/Pasted image 20231220141509.png",
-    "attachments/Pasted image 20231220140723.png",
     "files_and_data"
   ]
 }
