@@ -1,0 +1,3 @@
+uses so-called nanoholes containing a single DNA polymerase. This allows incorporation of any single nucleotide to be directly observed by detectors attached below the nanoholes. Each type of nucleotides is labeled with a specific fluorescent dye that emits fluorescent signals during the incorporation process, which are subsequently measured as sequence readout.
+
+Reads obtained from PacBio sequencers are usually of 8 to 15 kilobases (kb), with possibilities for up to 70kb.

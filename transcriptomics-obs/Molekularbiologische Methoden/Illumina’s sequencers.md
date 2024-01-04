@@ -1,0 +1,1 @@
+Illumina short-read sequencers  (order of 75 to 300 base pairs depending on the sequencer)

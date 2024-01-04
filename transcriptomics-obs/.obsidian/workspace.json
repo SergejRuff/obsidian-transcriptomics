@@ -8,18 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d2d085108fe460d6",
+            "id": "571fe6f5feaa1052",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "files_and_data/gene expression values from microarray(array express).md",
+                "file": "single_cell/Protokolle/ScRNA-Protokolle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0706ecb1810abc1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "single_cell/UMI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "13f6fc1b7a99b388",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "single_cell/UMI.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "files_and_data/gene expression values from microarray(array express).md",
+                "file": "single_cell/UMI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "files_and_data/gene expression values from microarray(array express).md",
+                "file": "single_cell/UMI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "files_and_data/gene expression values from microarray(array express).md"
+                "file": "single_cell/UMI.md"
               }
             }
           }
@@ -146,14 +171,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d2d085108fe460d6",
+  "active": "0706ecb1810abc1d",
   "lastOpenFiles": [
-    "files_and_data/transcriptomics data.md",
-    "files_and_data/Pasted image 20231220141509.png",
-    "files_and_data/gene expression values from microarray(array express).md",
-    "files_and_data/Pasted image 20231220141449.png",
-    "files_and_data/Pasted image 20231220140723.png",
-    "files_and_data/Pasted image 20231220135643.png",
+    "single_cell/tag-based Quantification.md",
+    "single_cell/single-cell vs single-nuclei.md",
+    "single_cell/Spatial transcriptomics.md",
+    "single_cell/scATAC-seq.md",
+    "single_cell/quality control.md",
+    "single_cell/Overview.md",
+    "single_cell/normalization.md",
+    "single_cell/Motivation hinter Single Cell Analysen.md",
+    "single_cell/Literatur.md",
+    "single_cell/full-length Quantification.md",
+    "single_cell/Fortschritte in Single Cell Analysen.md",
+    "common terminology/amplification biases.md",
+    "single_cell/UMI.md",
+    "attachments/Pasted image 20231220141449.png",
+    "common terminology",
+    "single_cell/Protokolle/ScRNA-Protokolle.md",
+    "single_cell/Protokolle/ScNaUmi-seq.md",
+    "single_cell/Protokolle/plate-based protocols.md",
+    "common terminology/multiplexing.md",
+    "single_cell/Protokolle/Microfluidic device-based protocols.md",
+    "single_cell/Protokolle",
+    "single_cell/Protokolle/commercial Fluidigm C1 microfluidic chip based solution.md",
+    "attachments/Pasted image 20240104133410.png",
+    "attachments/Pasted image 20240104133328.png",
+    "attachments/Pasted image 20240104130311.png",
+    "attachments/Pasted image 20240104125827.png",
+    "single_cell/Transcript quantification.md",
+    "attachments/Pasted image 20240104123050.png",
+    "attachments/Pasted image 20240104122847.png",
+    "attachments",
+    "attachments/Pasted image 20240104122218.png",
+    "Molekularbiologische Methoden/NGS Prozess.md",
+    "Molekularbiologische Methoden/Illumina’s sequencers.md",
+    "Molekularbiologische Methoden/First Generation Sequencing.md",
+    "Molekularbiologische Methoden/Oxford Nanopore.md",
+    "Molekularbiologische Methoden/PacBio.md",
+    "Molekularbiologische Methoden/Third generation Sequencing.md",
+    "Molekularbiologische Methoden",
+    "single_cell",
+    "attachments/Pasted image 20231220141509.png",
+    "attachments/Pasted image 20231220140723.png",
     "files_and_data"
   ]
 }
